@@ -1,0 +1,10 @@
+{
+  "description": "Discover and explore a rich collection of cultural and traditional knowledge from Central Asia, featuring diverse formats like books, videos, and articles.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
